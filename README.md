@@ -1,5 +1,7 @@
 ### Bookmarks
 - [TEA on Ethereum Layer-1](https://github.com/tearust/eth_layer1#these-are-the-address-in-goerli-eth-testnet)
+- [Overview of TEA deployment](https://github.com/orgs/tearust/projects/4/views/1)
+- [Knowledgebase]([https://tearust.github.io/t-rust/#/](https://tearust.github.io/teaproject/#/))
 
 ### Epoch 12 Ideas
 
